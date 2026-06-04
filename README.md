@@ -62,7 +62,8 @@
 ```
 
 ![Задание 2](https://github.com/SkebaX/9-03-hw/blob/main/screenshots/HW-9-03-Task-2.png)`
-![Задание 3](https://github.com/SkebaX/9-03-hw/blob/main/screenshots/HW-9-03-Task-3.png)`
+
+![Задание 2](https://github.com/SkebaX/9-03-hw/blob/main/screenshots/HW-9-03-Task-3.png)`
 
 ### Задание 4
 

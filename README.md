@@ -20,7 +20,7 @@
 ```
 ```
 
-![Задание 1](https://github.com/SkebaX/9-03-hw/blob/main/Снимок%20экрана%202026-06-04%20145510.png)`
+![Задание 1](https://github.com/SkebaX/9-03-hw/blob/main/screenshots/HW-9-03-Task-1.png)`
 
 ---
 

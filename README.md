@@ -61,8 +61,8 @@
 ```
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+![Задание 2](https://github.com/SkebaX/9-03-hw/blob/main/screenshots/HW-9-03-Task-2.png)`
+![Задание 3](https://github.com/SkebaX/9-03-hw/blob/main/screenshots/HW-9-03-Task-3.png)`
 
 ### Задание 4
 
@@ -80,5 +80,5 @@
 ```
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+
+![Задание 4](https://github.com/SkebaX/9-03-hw/blob/main/screenshots/HW-9-03-Task-4.png)`
